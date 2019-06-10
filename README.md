@@ -1,6 +1,6 @@
 # DataLoader
 
-DataLoader is a proof of concept for loading data in a SwiftUI application. This is heavily based off of Adam Wathan's [implementation](https://jsfiddle.net/adamwathan/xov6ksvd/) of a similar concept for Vue.js.
+DataLoader is a proof of concept for loading data in a SwiftUI application. This is heavily based off of [Adam Wathan's](https://twitter.com/adamwathan) [implementation](https://jsfiddle.net/adamwathan/xov6ksvd/) of a similar concept for Vue.js.
 
 ```swift
 struct ContentView : View {
