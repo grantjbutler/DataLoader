@@ -17,7 +17,6 @@
 		C314B97E22ACC81100ACA345 /* DataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = C314B97D22ACC81100ACA345 /* DataLoader.swift */; };
 		C314B98022ACCACB00ACA345 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C314B97F22ACCACB00ACA345 /* User.swift */; };
 		C314B98222ACCB6400ACA345 /* UserRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C314B98122ACCB6400ACA345 /* UserRow.swift */; };
-		C314B98422AD6EEB00ACA345 /* DefaultValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = C314B98322AD6EEB00ACA345 /* DefaultValue.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +32,6 @@
 		C314B97D22ACC81100ACA345 /* DataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataLoader.swift; sourceTree = "<group>"; };
 		C314B97F22ACCACB00ACA345 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		C314B98122ACCB6400ACA345 /* UserRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRow.swift; sourceTree = "<group>"; };
-		C314B98322AD6EEB00ACA345 /* DefaultValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultValue.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,7 +71,6 @@
 				C314B97D22ACC81100ACA345 /* DataLoader.swift */,
 				C314B97F22ACCACB00ACA345 /* User.swift */,
 				C314B98122ACCB6400ACA345 /* UserRow.swift */,
-				C314B98322AD6EEB00ACA345 /* DefaultValue.swift */,
 				C314B96D22ACC7E400ACA345 /* Assets.xcassets */,
 				C314B97222ACC7E400ACA345 /* LaunchScreen.storyboard */,
 				C314B97522ACC7E400ACA345 /* Info.plist */,
@@ -168,7 +165,6 @@
 				C314B98222ACCB6400ACA345 /* UserRow.swift in Sources */,
 				C314B96A22ACC7E300ACA345 /* SceneDelegate.swift in Sources */,
 				C314B96C22ACC7E300ACA345 /* ContentView.swift in Sources */,
-				C314B98422AD6EEB00ACA345 /* DefaultValue.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
